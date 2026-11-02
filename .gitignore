@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Xcode user settings
+**/xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM
+
+# Xcode source control metadata
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
